@@ -1,0 +1,15 @@
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\bin\Debug\net5.0\RestAPI.ModeloDDD.Application.deps.json
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\bin\Debug\net5.0\RestAPI.ModeloDDD.Application.dll
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\bin\Debug\net5.0\ref\RestAPI.ModeloDDD.Application.dll
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\bin\Debug\net5.0\RestAPI.ModeloDDD.Application.pdb
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.AssemblyInfo.cs
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.dll
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\ref\RestAPI.ModeloDDD.Application.dll
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.pdb
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\bin\Debug\net5.0\RestAPI.ModeloDDD.Domain.dll
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\bin\Debug\net5.0\RestAPI.ModeloDDD.Domain.pdb
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.csproj.AssemblyReference.cache
+C:\Users\Willian\source\repos\RestAPI.ModeloDDD\RestAPI.ModeloDDD.Application\obj\Debug\net5.0\RestAPI.ModeloDDD.Application.csproj.CopyComplete

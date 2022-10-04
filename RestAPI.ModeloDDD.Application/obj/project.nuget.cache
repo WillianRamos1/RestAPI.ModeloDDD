@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kE8ih4OJCcnnYON18tPq1A+9uuwsnNRUJaLUbg9pK+I2k1D7U+S74/NkinZBJsK0QLdpfMCC7E1TfgNFFbD8MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Willian\\source\\repos\\RestAPI.ModeloDDD\\RestAPI.ModeloDDD.Application\\RestAPI.ModeloDDD.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willian\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Willian\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
